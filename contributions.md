@@ -20,6 +20,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | https://github.com/nyu-ossd-s19/angie1313-weekly/issues/1    | Peer weekly blog    |   Fixed a sentence.    |
-|     |     |     |      |
+|  2   | https://github.com/nyu-ossd-s19/angie1313-weekly/issues/1    | Peer weekly blog    |   Created issue to fix sentence.    |
+|  2  | https://github.com/nyu-ossd-s19/TiaraIsTan-weekly/issues/1 |  Peer weekly blog   |  Created issue to fix a link    |
 |     |     |     |      |
