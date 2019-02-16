@@ -20,13 +20,13 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | (Link) [https://github.com/nyu-ossd-s19/angie1313-weekly/issues/1]    | Peer weekly blog    |   Filed issue to fix sentence.    |
-|  2  | https://github.com/nyu-ossd-s19/TiaraIsTan-weekly/issues/1 |  Peer weekly blog   |  Filed issue to fix a link.    |
-|  2   |  https://github.com/nyu-ossd-s19/css459-weekly/issues/1   | Peer weekly blog    |   Filed issue to fix link.   |
-|  2   |  https://github.com/joannakl/ossd_s19/issues/1  | Course website    |   Filed issue to fix spelling.   |
-|  3   |  https://github.com/nyu-ossd-s19/mood/issues/10 | Peer extensions   |   Filed issue to fix link.   |
-|  3   |  https://github.com/nyu-ossd-s19/mood/issues/10 | Peer extensions   |   Filed issue to fix link.   |
-|  3   | https://github.com/nyu-ossd-s19/nopepad/issues/2 | Peer extensions   |   Filed issue to update REAME.md.   |
-|  3   | https://github.com/nyu-ossd-s19/FacebookPanic/issues/4 | Peer extensions   |   Filed issue to update REAME.md.   |
-|  3   | https://github.com/nyu-ossd-s19/tickStop/issues/2 | Peer extensions   |   Filed issue to update REAME.md.   |
+|  2   | <https://github.com/nyu-ossd-s19/angie1313-weekly/issues/1>  | Peer weekly blog    |   Filed issue to fix sentence.    |
+|  2  | <https://github.com/nyu-ossd-s19/TiaraIsTan-weekly/issues/1> |  Peer weekly blog   |  Filed issue to fix a link.    |
+|  2   |  <https://github.com/nyu-ossd-s19/css459-weekly/issues/1>   | Peer weekly blog    |   Filed issue to fix link.   |
+|  2   |  <https://github.com/joannakl/ossd_s19/issues/1>  | Course website    |   Filed issue to fix spelling.   |
+|  3   |  <https://github.com/nyu-ossd-s19/mood/issues/10> | Peer extensions   |   Filed issue to fix link.   |
+|  3   |  <https://github.com/nyu-ossd-s19/mood/issues/10> | Peer extensions   |   Filed issue to fix link.   |
+|  3   | <https://github.com/nyu-ossd-s19/nopepad/issues/2> | Peer extensions   |   Filed issue to update REAME.md.   |
+|  3   | <https://github.com/nyu-ossd-s19/FacebookPanic/issues/4> | Peer extensions   |   Filed issue to update REAME.md.   |
+|  3   | <https://github.com/nyu-ossd-s19/tickStop/issues/2> | Peer extensions   |   Filed issue to update REAME.md.   |
 
