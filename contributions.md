@@ -29,4 +29,5 @@ Replace the first row with your contribution.
 |  3   | <https://github.com/nyu-ossd-s19/nopepad/issues/2> | Peer extensions   |   Filed issue to update REAME.md.   |
 |  3   | <https://github.com/nyu-ossd-s19/FacebookPanic/issues/4> | Peer extensions   |   Filed issue to update REAME.md.   |
 |  3   | <https://github.com/nyu-ossd-s19/tickStop/issues/2> | Peer extensions   |   Filed issue to update REAME.md.   |
+|  3   | <https://github.com/nyu-ossd-s19/mood/pull/11> | Peer extensions   |   Created PR to fix broken links.   |
 
