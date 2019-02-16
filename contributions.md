@@ -20,7 +20,7 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | https://github.com/nyu-ossd-s19/angie1313-weekly/issues/1    | Peer weekly blog    |   Filed issue to fix sentence.    |
+|  2   | (Link) [https://github.com/nyu-ossd-s19/angie1313-weekly/issues/1]    | Peer weekly blog    |   Filed issue to fix sentence.    |
 |  2  | https://github.com/nyu-ossd-s19/TiaraIsTan-weekly/issues/1 |  Peer weekly blog   |  Filed issue to fix a link.    |
 |  2   |  https://github.com/nyu-ossd-s19/css459-weekly/issues/1   | Peer weekly blog    |   Filed issue to fix link.   |
 |  2   |  https://github.com/joannakl/ossd_s19/issues/1  | Course website    |   Filed issue to fix spelling.   |
