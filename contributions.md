@@ -33,5 +33,6 @@ Replace the first row with your contribution.
 |  3   | <https://github.com/nyu-ossd-s19/tickStop/pull/4> | Peer extensions   |   Created PR to update README.md.   |
 |  6   | <https://github.com/joannakl/ossd_s19/pull/4> | Course website   |   Created PR to fix spelling errors   |
 |  9   | <https://github.com/rShetty/awesome-podcasts/pull/234> | Awesome Podcasts Repository   |   Created PR to add interesting tech podcasts   |
+|  9   | <https://github.com/go101/go101/pull/115> | go101 repository   |   Created PR to edit articles in the go101 book   |
 
 
