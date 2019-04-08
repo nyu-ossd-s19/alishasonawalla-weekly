@@ -35,5 +35,6 @@ Replace the first row with your contribution.
 |  9   | <https://github.com/rShetty/awesome-podcasts/pull/234> | Awesome Podcasts Repository   |   Created PR to add interesting tech podcasts   |
 |  9   | <https://github.com/go101/go101/pull/115> | go101 repository   |   Created PR to edit articles in the go101 book   |
 |  11   | <https://github.com/joannakl/ossd_s19/pull/10> | Course Website  |   Created PR to fix a date error on the course website   |
+|  11   | <https://en.wikipedia.org/w/index.php?title=Seethakaathi&diff=891586403&oldid=890640224> | Wikipedia Edits  |   Contributed to a Wikipedia Page by copy editing it   |
 
 
