@@ -38,5 +38,5 @@ Replace the first row with your contribution.
 |  11   | <https://github.com/joannakl/ossd_s19/pull/10> | Course Website  |   Created PR to fix a date error on the course website   |
 |  11   | <https://en.wikipedia.org/w/index.php?title=Seethakaathi&diff=891586403&oldid=890640224> | Wikipedia Edits  |   Contributed to a Wikipedia Page by copy editing it   |
 |  11   | <https://en.wikipedia.org/w/index.php?title=QCinema_International_Film_Festival&diff=prev&oldid=891612275> | Wikipedia Edits  |   Contributed to a Wikipedia Page by copy editing it   |
-
+|  11   | <https://github.com/yampelo/beagle/issues/20> | Beagle Installation Guide |   Filed an issue to update the installation guide with requirement changes. Asked for issue to be assigned to me.   |
 
