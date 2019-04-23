@@ -43,6 +43,5 @@ Replace the first row with your contribution.
 |  11   | <https://en.wikipedia.org/w/index.php?title=Akbariyya&diff=891936859&oldid=879973562> | Wikipedia Edits  |   Contributed to Akbariyya's Wikipedia Page by copy editing it   |
 |  11   | <https://en.wikipedia.org/w/index.php?title=Baa_Bahoo_Aur_Baby&diff=892203472&oldid=890577108> | Wikipedia Edits  |   Contributed to Baa Bahu Baby's Wikipedia Page by copy editing it, since I've watched the show as a kid and have some context.   |
 |  12   | <https://en.wikipedia.org/w/index.php?title=Jaswant_Singh_Khalra&diff=893196920&oldid=892682381> | Wikipedia Edits  |   Contributed to Jaswant Khalra's Wikipedia Page by copy editing it.   |
-
 |  13   | <https://github.com/rShetty/awesome-podcasts/pull/239> | PR to awesome podcasts  |   Updated details of an existing podcast. Added the host name and a link to the podcast. Fixed a few grammatical issues for other podcasts.   |
 
